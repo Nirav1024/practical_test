@@ -2,7 +2,7 @@
 <span> laravel/framework : 11.31 </span><br>
 <span> php version : 8.2 </span>
 
-
+<p>change name .env.example to .env </p>
 1. **Clone the Repository:**
 
    ```bash

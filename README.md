@@ -10,7 +10,7 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Msutreja/Laravel-new-project.git
+   git clone https://github.com/Nirav1024/practical_test.git
   
 
 2. **Create Migration For Set up data base and Table:**

@@ -11,7 +11,7 @@
 
 2. **Create Migration For Set up data base and Table:**
     ```bash
-    php artisan make:migrate
+    php artisan migrate
     ```
 
 3. **Run Project:**
